@@ -166,7 +166,7 @@ Write a Python program that takes a list of strings as input and returns a new l
 
 """
 
-str1=['second','running','hii','hello','programming']
+str1=['second','running','hii','hello','programming','ronit','doing','wrong']
 str2=[]
 for i in str1:
   if 'ing' in i:
