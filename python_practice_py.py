@@ -90,7 +90,7 @@ print(palindromes)
 a=[1,2,3,4,5,6,8,9,7,99,110]
 b=[1,2,3,4,5,6,8,9,7,22]
 c=[]
-#result = [item for item in list1 if item not in list2]
+
 for i in a:
   if i not in b:
     c.append(i)
