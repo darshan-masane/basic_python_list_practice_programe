@@ -2,7 +2,7 @@
 Python List Basics This repository contains simple, beginner-friendly Python code focused on understanding and working with lists.
 
 # Basic Python List Exercises
-#### This repository contains a variety of Python programs and functions focusing on list manipulation. Each code snippet demonstrates practical applications of list operations and basic algorithms, including:
+### This repository contains a variety of Python programs and functions focusing on list manipulation. Each code snippet demonstrates practical applications of list operations and basic algorithms, including:
 
 - Square of Numbers: Create a list of integers and print their squares.
 - Maximum in List: Find the maximum number in a list of integers.
