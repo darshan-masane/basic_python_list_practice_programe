@@ -12,8 +12,8 @@ Write a Python program that creates a list of integers from 1 to 10, and then pr
 a=[]
 for i in range(1,11):
   a.append(i)
-for num in a:
-  print(num**2)
+for number in a:
+  print(number**2)
 
 """Write a Python function that takes a list of integers as input and returns the maximum number in the list."""
 
